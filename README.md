@@ -53,6 +53,12 @@ Folgende Modelle werden aktuell unterstützt:
 [Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP)
 
 
+Für kleinere Wägen gibt es allgemeine Platinen
+
+[Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15)
+
+[Einseite Montage - 60mm * 15mm](./wagon-light/common/60x15)
+
 ## Support und Fragen
 
 Bei Fragen, Anregungen und Beschwerden, bitte einfach melden. 
