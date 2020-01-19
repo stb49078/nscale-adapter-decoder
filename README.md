@@ -18,4 +18,4 @@ Folgende Modelle werden aktuell unterstützt:
 
 [Roco - Eurofima (z.B. 24270, 24285, uvm.)](./wagon-light/Roco/Eurofima)
 
-[Minitrix - Eurofima (z.B. 51 3106 00)](./wagon-light/Minitrix/Eurofima)
+[Minitrix - Eurofima (z.B. 3095, 3106, uvm.)](./wagon-light/Minitrix/Eurofima)
