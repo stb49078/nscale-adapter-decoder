@@ -54,4 +54,4 @@ Folgende Modelle werden aktuell unterstützt:
 ## Support und Fragen
 
 Bei Fragen, Anregungen und Beschwerden, bitte einfach melden. 
-spurn@stefanbauer.at
+spur.n@stefanbauer.at
