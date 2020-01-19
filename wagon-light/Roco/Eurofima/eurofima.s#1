@@ -20394,6 +20394,24 @@ Diode with low voltage drop</description>
 <junction x="165.1" y="40.64"/>
 <label x="154.94" y="40.64" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="Q11" gate="G$1" pin="C"/>
+<wire x1="190.5" y1="35.56" x2="190.5" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="Q10" gate="G$1" pin="B"/>
+<wire x1="190.5" y1="40.64" x2="193.04" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="40.64" x2="180.34" y2="40.64" width="0.1524" layer="91"/>
+<junction x="190.5" y="40.64"/>
+<label x="180.34" y="40.64" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="Q13" gate="G$1" pin="C"/>
+<wire x1="215.9" y1="35.56" x2="215.9" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="Q12" gate="G$1" pin="B"/>
+<wire x1="215.9" y1="40.64" x2="218.44" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="215.9" y1="40.64" x2="205.74" y2="40.64" width="0.1524" layer="91"/>
+<junction x="215.9" y="40.64"/>
+<label x="205.74" y="40.64" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="PWM1" class="0">
 <segment>
@@ -20543,30 +20561,12 @@ Diode with low voltage drop</description>
 <wire x1="45.72" y1="35.56" x2="55.88" y2="35.56" width="0.1524" layer="91"/>
 <label x="48.26" y="35.56" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="Q12" gate="G$1" pin="B"/>
-<wire x1="218.44" y1="40.64" x2="215.9" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="Q13" gate="G$1" pin="C"/>
-<wire x1="215.9" y1="40.64" x2="215.9" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="215.9" y1="40.64" x2="205.74" y2="40.64" width="0.1524" layer="91"/>
-<junction x="215.9" y="40.64"/>
-<label x="205.74" y="40.64" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="PWM5" class="0">
 <segment>
 <pinref part="IC3" gate="G$1" pin="OSC1/CLKIN/T1CKI/RA5"/>
 <wire x1="-7.62" y1="45.72" x2="-27.94" y2="45.72" width="0.1524" layer="91"/>
 <label x="-27.94" y="45.72" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="Q11" gate="G$1" pin="C"/>
-<wire x1="190.5" y1="35.56" x2="190.5" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="Q10" gate="G$1" pin="B"/>
-<wire x1="190.5" y1="40.64" x2="193.04" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="190.5" y1="40.64" x2="180.34" y2="40.64" width="0.1524" layer="91"/>
-<junction x="190.5" y="40.64"/>
-<label x="180.34" y="40.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$14" class="0">
