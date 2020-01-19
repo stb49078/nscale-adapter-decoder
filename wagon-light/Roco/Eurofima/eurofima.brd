@@ -186,6 +186,7 @@
 <rectangle x1="84.074" y1="0.254" x2="88.392" y2="6.604" layer="22" rot="R180"/>
 <wire x1="149.86" y1="6.604" x2="149.86" y2="1.016" width="0.1524" layer="22"/>
 <wire x1="149.86" y1="1.016" x2="148.844" y2="1.016" width="0.1524" layer="22"/>
+<text x="46" y="0.5" size="0.6096" layer="27">https://github.com/stb49078/nscale-adapter-decoder</text>
 </plain>
 <libraries>
 <library name="rectifier" urn="urn:adsk.eagle:library:336">
