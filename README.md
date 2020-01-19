@@ -46,18 +46,16 @@ Die originale H0-Platine und vorprogrammierte PIC-Controller können im Shop von
 
 Folgende Modelle werden aktuell unterstützt:
 
-[Roco - Eurofima z.B. 24270, 24285, uvm.](./wagon-light/Roco/Eurofima)
+- [Roco - Eurofima z.B. 24270, 24285, uvm.](./wagon-light/Roco/Eurofima)
 
-[Roco - Eilzugwagen / Schlierenwagen z.B. 24280-24281 ](./wagon-light/Roco/Eilzugwagen) (WIP)
+- [Roco - Eilzugwagen / Schlierenwagen z.B. 24280-24281 ](./wagon-light/Roco/Eilzugwagen) (WIP)
 
-[Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP)
+- [Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP)
 
 
 Für kleinere Wägen gibt es allgemeine Platinen
 
-[Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15)
-
-[Einseite Montage - 60mm * 15mm](./wagon-light/common/60x15)
+- [Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15)
 
 ## Support und Fragen
 
