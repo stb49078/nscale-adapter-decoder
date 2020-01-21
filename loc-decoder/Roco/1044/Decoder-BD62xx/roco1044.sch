@@ -25824,7 +25824,7 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 <busses>
 </busses>
 <nets>
-<net name="N$2" class="0">
+<net name="TR-L" class="0">
 <segment>
 <pinref part="TR-L-1" gate="1" pin="P"/>
 <pinref part="TR-L-3" gate="1" pin="P"/>
@@ -25843,9 +25843,10 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 <pinref part="B1" gate="G$1" pin="AC1"/>
 <wire x1="157.48" y1="63.5" x2="157.48" y2="76.2" width="0.1524" layer="91"/>
 <junction x="157.48" y="76.2"/>
+<label x="177.8" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="TR-R" class="0">
 <segment>
 <pinref part="TR-R-1" gate="1" pin="P"/>
 <pinref part="TR-R-2" gate="1" pin="P"/>
@@ -25859,6 +25860,7 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 <pinref part="B1" gate="G$1" pin="AC2"/>
 <wire x1="157.48" y1="53.34" x2="157.48" y2="38.1" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="38.1" x2="152.4" y2="38.1" width="0.1524" layer="91"/>
+<label x="157.48" y="48.26" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">

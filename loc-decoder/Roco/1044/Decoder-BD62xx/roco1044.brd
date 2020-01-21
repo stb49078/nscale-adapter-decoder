@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.0">
+<eagle version="9.5.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="5" unitdist="mil" unit="mm" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -3083,7 +3083,7 @@ design rules under a new name.</description>
 </element>
 </elements>
 <signals>
-<signal name="N$2">
+<signal name="TR-L">
 <contactref element="TR-L-1" pad="1"/>
 <contactref element="TR-L-3" pad="1"/>
 <contactref element="TR-L-2" pad="1"/>
@@ -3112,7 +3112,7 @@ design rules under a new name.</description>
 <wire x1="33.3015" y1="3.0735" x2="31.875" y2="4.5" width="0.1524" layer="1"/>
 <wire x1="31.875" y1="4.5" x2="31.838" y2="4.572" width="0.1524" layer="1"/>
 </signal>
-<signal name="N$3">
+<signal name="TR-R">
 <contactref element="TR-R-1" pad="1"/>
 <contactref element="TR-R-2" pad="1"/>
 <contactref element="TR-R-3" pad="1"/>
