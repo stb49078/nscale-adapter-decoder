@@ -21447,78 +21447,6 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 </deviceset>
 </devicesets>
 </library>
-<library name="BCR421U">
-<packages>
-<package name="SC74-6">
-<description>&lt;b&gt;Small Outline Transistor&lt;/b&gt; - 6 leads&lt;p&gt;</description>
-<wire x1="-1.45" y1="0.6" x2="-1.45" y2="-0.6" width="0.2032" layer="21"/>
-<wire x1="-1.45" y1="-0.6" x2="1.45" y2="-0.6" width="0.2032" layer="21"/>
-<wire x1="1.45" y1="-0.6" x2="1.45" y2="0.6" width="0.2032" layer="21"/>
-<wire x1="1.45" y1="0.6" x2="-1.45" y2="0.6" width="0.2032" layer="21"/>
-<circle x="-0.95" y="-0.25" radius="0.1" width="0.2032" layer="21"/>
-<text x="-1.70293125" y="-0.701203125" size="1.01775" layer="25" ratio="18" rot="R90">&gt;NAME</text>
-<text x="2.500840625" y="-0.700234375" size="0.813071875" layer="27" ratio="10" rot="R90">&gt;VALUE</text>
-<rectangle x1="-1.126709375" y1="-1.30196875" x2="-0.775" y2="-0.7" layer="51"/>
-<rectangle x1="-0.175028125" y1="-1.3002" x2="0.175" y2="-0.7" layer="51"/>
-<rectangle x1="0.776459375" y1="-1.30245" x2="1.125" y2="-0.7" layer="51"/>
-<rectangle x1="0.77525625" y1="0.70023125" x2="1.125" y2="1.3" layer="51"/>
-<rectangle x1="-0.175003125" y1="0.7000125" x2="0.175" y2="1.3" layer="51"/>
-<rectangle x1="-1.125859375" y1="0.7005375" x2="-0.775" y2="1.3" layer="51"/>
-<smd name="1" x="-0.95" y="-1.2" dx="0.6" dy="0.6" layer="1"/>
-<smd name="2" x="0" y="-1.2" dx="0.6" dy="0.6" layer="1"/>
-<smd name="3" x="0.95" y="-1.2" dx="0.6" dy="0.6" layer="1"/>
-<smd name="4" x="0.95" y="1.2" dx="0.6" dy="0.6" layer="1"/>
-<smd name="5" x="0" y="1.2" dx="0.6" dy="0.6" layer="1"/>
-<smd name="6" x="-0.95" y="1.2" dx="0.6" dy="0.6" layer="1"/>
-</package>
-</packages>
-<symbols>
-<symbol name="BCR421U">
-<wire x1="-10.16" y1="7.62" x2="10.16" y2="7.62" width="0.4064" layer="94"/>
-<wire x1="10.16" y1="7.62" x2="10.16" y2="-7.62" width="0.4064" layer="94"/>
-<wire x1="10.16" y1="-7.62" x2="-10.16" y2="-7.62" width="0.4064" layer="94"/>
-<wire x1="-10.16" y1="-7.62" x2="-10.16" y2="7.62" width="0.4064" layer="94"/>
-<text x="-10.1762" y="8.904159375" size="1.78083125" layer="95">&gt;NAME</text>
-<text x="-10.1615" y="-10.7966" size="1.778259375" layer="96">&gt;VALUE</text>
-<pin name="EN" x="-15.24" y="5.08" length="middle" direction="in"/>
-<pin name="OUT@2" x="15.24" y="5.08" length="middle" direction="oc" rot="R180"/>
-<pin name="OUT@3" x="15.24" y="2.54" length="middle" direction="oc" rot="R180"/>
-<pin name="GND" x="-15.24" y="-5.08" length="middle" direction="in"/>
-<pin name="OUT@5" x="15.24" y="0" length="middle" direction="oc" rot="R180"/>
-<pin name="REXT" x="15.24" y="-5.08" length="middle" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="BCR421U" prefix="U">
-<description>LED DRIVER</description>
-<gates>
-<gate name="G$1" symbol="BCR421U" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="SC74-6">
-<connects>
-<connect gate="G$1" pin="EN" pad="1"/>
-<connect gate="G$1" pin="GND" pad="4"/>
-<connect gate="G$1" pin="OUT@2" pad="2"/>
-<connect gate="G$1" pin="OUT@3" pad="3"/>
-<connect gate="G$1" pin="OUT@5" pad="5"/>
-<connect gate="G$1" pin="REXT" pad="6"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="AVAILABILITY" value="Unavailable"/>
-<attribute name="DESCRIPTION" value=" LED Driver IC 1 Output Linear PWM Dimming 350mA SOT-26 "/>
-<attribute name="MF" value="Infineon"/>
-<attribute name="MP" value="BCR421U"/>
-<attribute name="PACKAGE" value="SC-74 Infineon"/>
-<attribute name="PRICE" value="None"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="pinhead" urn="urn:adsk.eagle:library:325">
 <description>&lt;b&gt;Pin Header Connectors&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
@@ -21701,12 +21629,11 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device=""/>
-<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="A/3216-18R" package3d_urn="urn:adsk.eagle:package:23410/2" value="&gt;1u, &gt;30V"/>
-<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="A/3216-18R" package3d_urn="urn:adsk.eagle:package:23410/2" value="&gt;1u, &gt;30V"/>
-<part name="C8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="A/3216-18R" package3d_urn="urn:adsk.eagle:package:23410/2" value="&gt;1u, &gt;30V"/>
-<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="A/3216-18R" package3d_urn="urn:adsk.eagle:package:23410/2" value="&gt;10u, &gt;6V"/>
+<part name="C6" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="CT3528" package3d_urn="urn:adsk.eagle:package:23325/2" value="&gt;1u, &gt;30V"/>
+<part name="C7" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="CT3528" package3d_urn="urn:adsk.eagle:package:23325/2" value="&gt;1u, &gt;30V"/>
+<part name="C8" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="CT3528" package3d_urn="urn:adsk.eagle:package:23325/2" value="&gt;1u, &gt;30V"/>
+<part name="C4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="CPOL-EU" device="CT3528" package3d_urn="urn:adsk.eagle:package:23325/2" value="&gt;10u, &gt;6V"/>
 <part name="U2" library="ATTINY1614-SSNR" deviceset="ATTINY1614-SSNR" device=""/>
-<part name="U3" library="BCR421U" deviceset="BCR421U" device=""/>
 <part name="J-UPDI" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2"/>
 </parts>
 <sheets>
@@ -21879,10 +21806,6 @@ Source: http://www.rohm.com/products/databook/motor/pdf/bd623x_series-e.pdf</des
 <instance part="U2" gate="G$1" x="106.68" y="71.12" smashed="yes">
 <attribute name="NAME" x="88.9" y="87.36" size="2.0828" layer="95" ratio="10" rot="SR0"/>
 <attribute name="VALUE" x="88.9" y="51.88" size="2.0828" layer="96" ratio="10" rot="SR0"/>
-</instance>
-<instance part="U3" gate="G$1" x="17.78" y="111.76" smashed="yes">
-<attribute name="NAME" x="7.6038" y="120.664159375" size="1.78083125" layer="95"/>
-<attribute name="VALUE" x="7.6185" y="100.9634" size="1.778259375" layer="96"/>
 </instance>
 <instance part="J-UPDI" gate="A" x="200.66" y="96.52" smashed="yes">
 <attribute name="NAME" x="194.31" y="102.235" size="1.778" layer="95"/>
