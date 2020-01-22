@@ -14,21 +14,29 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 **Roco - 1044 alt, z.B. 23242**
 
-- [NEM651-Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
+- [NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
 - [Aegaeon Decoder mit BD62xx](./loc-decoder/Roco/1044/Decoder-BD62xx)
 - [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom)
 
 **Roco - BR215, z.B. 2150B**
 
-- [NEM651-Adapter](./loc-decoder/Roco/BR215)
+- [NEM-651 Adapter](./loc-decoder/Roco/BR215)
 
 **Roco - BR 44, z.B. 2106B**
 
-- [NEM651-Adapter](./loc-decoder/Roco/BR44)
+- [NEM-651 Adapter](./loc-decoder/Roco/BR44)
 
 **Spectrum - GE Dash 8-40CW**
 
 - [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom)
+
+**Minitrix - E44**
+
+- [NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651 Adapter)
+
+**Arnold - 1020/E94**
+
+- [NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
 
 ## Wagonbeleuchtung
 
