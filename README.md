@@ -34,7 +34,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 **Spectrum - GE Dash 8-40CW**
 
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom) (WIP - nicht getestet)
-![Board](./loc-decoder/Spectrum/GE_Dash8-40CW-Railcom/board.png)
+![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
 
 **Minitrix - E44**
 
