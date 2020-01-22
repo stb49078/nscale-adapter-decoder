@@ -3,7 +3,7 @@
 Hier entstehen mehrere Adapter- und Dekoderplatinen für Wagen und Lokomtiven verschiedener Hersteller in Spur N
 
 
-## Lokdecoder
+# Lokdecoder
 
 Hier finden sich div. Adapterplatinen und vollständige DIY Lokdecoder auf Basis des (vermutlich eingestellten) Projekts [Aegaeon](https://github.com/Railstars/Aegaeon) von [Railstars
 ](http://railstars.com/).
@@ -39,13 +39,6 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 [NEM-651 Adapter](./loc-decoder/Roco/BR44) 
 ![Board](./loc-decoder/Roco/BR44/board.png)
 
-##Spectrum
-
-**GE Dash 8-40CW**
-
-[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom) (WIP - nicht getestet)
-![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
-
 ##Minitrix 
 
 **E44**
@@ -54,8 +47,15 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 ![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
 
+##Spectrum
 
-## Wagonbeleuchtung
+**GE Dash 8-40CW**
+
+[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom) (WIP - nicht getestet)
+![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
+
+
+# Wagonbeleuchtung
 
 Mit freundlicher Erlaubnis von Hr. Brandt, verwende ich als Basis für die Wagonbeleuchtung, seinen unter 
 https://www.digital-bahn.de/bau_wald/wald_2v1.htm veröffentlicheten Spur H0 - Waggon-Licht Dekoder (WaLD) V2.1

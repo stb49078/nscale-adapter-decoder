@@ -165,6 +165,7 @@
 <rectangle x1="10" y1="0" x2="12" y2="10.5" layer="22"/>
 <rectangle x1="140" y1="0" x2="142" y2="10.5" layer="22"/>
 <rectangle x1="73" y1="0" x2="79" y2="10.5" layer="22"/>
+<text x="98" y="0.5" size="0.8128" layer="25">https://github.com/stb49078/nscale-adapter-decoder</text>
 </plain>
 <libraries>
 <library name="rectifier" urn="urn:adsk.eagle:library:336">
