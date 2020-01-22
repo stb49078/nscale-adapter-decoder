@@ -38,6 +38,8 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 - [NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
 
+![Schaltplan](./loc-decoder/Arnold/1020/NEM-651 Adapter/schematic.png) | ![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png)|
+
 ## Wagonbeleuchtung
 
 Mit freundlicher Erlaubnis von Hr. Brandt, verwende ich als Basis für die Wagonbeleuchtung, seinen unter 
