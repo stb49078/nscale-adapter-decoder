@@ -15,8 +15,8 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 ![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png =250x)
 **Roco - 1044 alt, z.B. 23242**
 
-[NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
-![Board](./loc-decoder/Roco/1044/NEM-651%20Adapter/board.png)
+[NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651_Adapter)
+![Board](./loc-decoder/Roco/1044/NEM-651_Adapter/board.png)
 
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom) (WIP - nicht getestet)
 ![Board](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom/board.png)
@@ -33,18 +33,18 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 **Spectrum - GE Dash 8-40CW**
 
-[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom) (WIP - nicht getestet)
-![Board](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom/board.png)
+[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom) (WIP - nicht getestet)
+![Board](./loc-decoder/Spectrum/GE_Dash8-40CW-Railcom/board.png)
 
 **Minitrix - E44**
 
 [NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651 Adapter)
-![Board](./loc-decoder/Minitrix/E44/NEM-651 Adapter/board.png)
+![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
 **Arnold - 1020/E94**
 
 [NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
-![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png)
+![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
 
 ## Wagonbeleuchtung
 
