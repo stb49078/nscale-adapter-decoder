@@ -1,9 +1,4 @@
-#Spur N - Dekoder Adapter Platinen und Beleuchtungsplatinen mit integriertem Dekoder
-
-Hier entstehen mehrere Adapter- und Dekoderplatinen für Wagen und Lokomtiven verschiedener Hersteller in Spur N
-
-
-# Lokdecoder
+# Lokdecoder - Adapter Platinen und DIY Decoder - Spur N
 
 Hier finden sich div. Adapterplatinen und vollständige DIY Lokdecoder auf Basis des (vermutlich eingestellten) Projekts [Aegaeon](https://github.com/Railstars/Aegaeon) von [Railstars
 ](http://railstars.com/).
@@ -16,7 +11,6 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 [1020/E94 - NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
 ![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
-
 
 
 ##Roco
@@ -55,7 +49,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 ![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
 
 
-# Wagonbeleuchtung
+# Wagonbeleuchtung mit integriertem Decoder- Spur N
 
 Mit freundlicher Erlaubnis von Hr. Brandt, verwende ich als Basis für die Wagonbeleuchtung, seinen unter 
 https://www.digital-bahn.de/bau_wald/wald_2v1.htm veröffentlicheten Spur H0 - Waggon-Licht Dekoder (WaLD) V2.1
