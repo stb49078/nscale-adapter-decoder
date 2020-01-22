@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.0">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -5292,6 +5292,7 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <sheets>
 <sheet>
 <plain>
+<text x="81.28" y="58.42" size="1.778" layer="95">Dioden optional</text>
 </plain>
 <instances>
 <instance part="LED_F" gate="G$1" x="5.08" y="35.56" smashed="yes" rot="R180">
@@ -5319,9 +5320,9 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <attribute name="NAME" x="21.59" y="47.2186" size="1.778" layer="95"/>
 <attribute name="VALUE" x="21.59" y="42.418" size="1.778" layer="96"/>
 </instance>
-<instance part="BLAU" gate="P" x="91.44" y="96.52" smashed="yes" rot="R180">
-<attribute name="NAME" x="92.583" y="94.6658" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="92.583" y="99.822" size="1.778" layer="96" rot="R180"/>
+<instance part="BLAU" gate="P" x="68.58" y="68.58" smashed="yes" rot="R270">
+<attribute name="NAME" x="70.4342" y="69.723" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="65.278" y="69.723" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="TR-R-1" gate="1" x="-10.16" y="55.88" smashed="yes">
 <attribute name="NAME" x="-11.303" y="57.7342" size="1.778" layer="95"/>
@@ -5339,13 +5340,13 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <attribute name="NAME" x="151.003" y="8.3058" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="151.003" y="13.462" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="M-R" gate="1" x="63.5" y="88.9" smashed="yes" rot="R180">
-<attribute name="NAME" x="64.643" y="87.0458" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="64.643" y="92.202" size="1.778" layer="96" rot="R180"/>
+<instance part="M-R" gate="1" x="71.12" y="88.9" smashed="yes" rot="R180">
+<attribute name="NAME" x="72.263" y="87.0458" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="72.263" y="92.202" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="M-L" gate="1" x="63.5" y="83.82" smashed="yes" rot="R180">
-<attribute name="NAME" x="64.643" y="81.9658" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="64.643" y="87.122" size="1.778" layer="96" rot="R180"/>
+<instance part="M-L" gate="1" x="71.12" y="83.82" smashed="yes" rot="R180">
+<attribute name="NAME" x="72.263" y="81.9658" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="72.263" y="87.122" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="D2" gate="G$1" x="83.82" y="68.58" smashed="yes" rot="R270">
 <attribute name="NAME" x="85.3186" y="70.866" size="1.6764" layer="95" ratio="12" rot="R270"/>
@@ -5365,12 +5366,10 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <pinref part="LED_R" gate="G$1" pin="A"/>
 <wire x1="7.62" y1="35.56" x2="68.58" y2="35.56" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="35.56" x2="129.54" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="88.9" x2="68.58" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="66.04" x2="68.58" y2="60.96" width="0.1524" layer="91"/>
 <junction x="68.58" y="35.56"/>
 <pinref part="BLAU" gate="P" pin="P"/>
 <wire x1="68.58" y1="60.96" x2="68.58" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="88.9" x2="88.9" y2="88.9" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="88.9" x2="88.9" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="68.58" y1="60.96" x2="83.82" y2="60.96" width="0.1524" layer="91"/>
 <junction x="68.58" y="60.96"/>
 <pinref part="D3" gate="G$1" pin="C"/>
@@ -5387,8 +5386,8 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <pinref part="651" gate="G$1" pin="TR-L"/>
 <wire x1="15.24" y1="10.16" x2="137.16" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="137.16" y1="10.16" x2="147.32" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="83.82" x2="15.24" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="73.66" x2="15.24" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="83.82" x2="15.24" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="83.82" x2="15.24" y2="10.16" width="0.1524" layer="91"/>
 <junction x="15.24" y="10.16"/>
 <pinref part="TR-L-1" gate="1" pin="P"/>
 <pinref part="TR-L-2" gate="1" pin="P"/>
@@ -5407,8 +5406,8 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <wire x1="144.78" y1="55.88" x2="109.22" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="55.88" x2="7.62" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="7.62" y1="55.88" x2="-7.62" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="88.9" x2="7.62" y2="71.12" width="0.1524" layer="91"/>
-<wire x1="7.62" y1="71.12" x2="7.62" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="88.9" x2="7.62" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="88.9" x2="7.62" y2="55.88" width="0.1524" layer="91"/>
 <junction x="7.62" y="55.88"/>
 <pinref part="TR-R-1" gate="1" pin="P"/>
 <pinref part="TR-R-2" gate="1" pin="P"/>
@@ -5436,16 +5435,16 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <segment>
 <pinref part="LED_R" gate="G$1" pin="CR"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="132.08" y1="43.18" x2="129.54" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="45.72" x2="129.54" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="43.18" x2="132.08" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="48.26" x2="129.54" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="LED_R" gate="G$1" pin="CY"/>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="132.08" y1="27.94" x2="129.54" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="25.4" x2="129.54" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="27.94" x2="132.08" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="22.86" x2="129.54" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -5453,22 +5452,20 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <pinref part="R1" gate="G$1" pin="1"/>
 <wire x1="119.38" y1="48.26" x2="60.96" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="651" gate="G$1" pin="F0R"/>
-<wire x1="60.96" y1="48.26" x2="60.96" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="60.96" y1="66.04" x2="58.42" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="60.96" y1="48.26" x2="60.96" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="60.96" y1="25.4" x2="58.42" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="48.26" x2="60.96" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="68.58" x2="58.42" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="48.26" x2="60.96" y2="22.86" width="0.1524" layer="91"/>
 <junction x="60.96" y="48.26"/>
 <pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="58.42" y1="22.86" x2="30.48" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="60.96" y1="22.86" x2="30.48" y2="22.86" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="20.32" y1="22.86" x2="7.62" y2="22.86" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="22.86" x2="5.08" y2="22.86" width="0.1524" layer="91"/>
 <pinref part="LED_F" gate="G$1" pin="CR"/>
-<wire x1="7.62" y1="22.86" x2="5.08" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="5.08" y1="25.4" x2="5.08" y2="27.94" width="0.1524" layer="91"/>
+<wire x1="5.08" y1="22.86" x2="5.08" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -5479,23 +5476,40 @@ Ingenieurbüro ing-rb, mail@ing-rb.de&lt;/p&gt;</description>
 <wire x1="5.08" y1="45.72" x2="5.08" y2="43.18" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="M-R" class="0">
 <segment>
 <pinref part="651" gate="G$1" pin="MOT_P"/>
 <pinref part="M-R" gate="1" pin="P"/>
-<wire x1="60.96" y1="88.9" x2="58.42" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="88.9" x2="58.42" y2="88.9" width="0.1524" layer="91"/>
+<label x="58.42" y="88.9" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="M-L" class="0">
 <segment>
 <pinref part="651" gate="G$1" pin="MOT_N"/>
 <pinref part="M-L" gate="1" pin="P"/>
-<wire x1="60.96" y1="83.82" x2="58.42" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="83.82" x2="58.42" y2="83.82" width="0.1524" layer="91"/>
+<label x="58.42" y="83.82" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="113,1,5.03767,35.56,LED_F,,,,,"/>
+<approved hash="113,1,132.122,35.56,LED_R,,,,,"/>
+<approved hash="113,1,124.46,49.3497,R1,,,,,"/>
+<approved hash="113,1,124.46,23.9497,R2,,,,,"/>
+<approved hash="113,1,25.4,23.9497,R3,,,,,"/>
+<approved hash="113,1,25.4,46.8097,R4,,,,,"/>
+<approved hash="113,1,69.8475,66.3194,BLAU,,,,,"/>
+<approved hash="113,1,-7.43072,57.1475,TR-R-1,,,,,"/>
+<approved hash="113,1,-7.64048,11.4275,TR-L-1,,,,,"/>
+<approved hash="113,1,144.591,54.6125,TR-R-2,,,,,"/>
+<approved hash="113,1,147.34,8.89254,TR-L-2,,,,,"/>
+<approved hash="113,1,68.8594,87.6325,M-R,,,,,"/>
+<approved hash="113,1,68.8594,82.5525,M-L,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 <compatibility>

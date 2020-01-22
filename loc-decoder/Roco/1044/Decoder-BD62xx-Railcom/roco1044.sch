@@ -22968,7 +22968,7 @@ No silk outline, but tDocu layer shows pin location.
 <pinref part="FRONT" gate="G$1" pin="CG"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="M-R" class="0">
 <segment>
 <pinref part="M-R" gate="1" pin="P"/>
 <pinref part="R6" gate="G$1" pin="2"/>
@@ -22978,9 +22978,10 @@ No silk outline, but tDocu layer shows pin location.
 <pinref part="IC2" gate="P" pin="OUT2"/>
 <wire x1="162.56" y1="-7.62" x2="152.4" y2="-7.62" width="0.1524" layer="91"/>
 <junction x="162.56" y="-7.62"/>
+<label x="157.48" y="-7.62" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="M-L" class="0">
 <segment>
 <pinref part="M-L" gate="1" pin="P"/>
 <wire x1="170.18" y1="2.54" x2="162.56" y2="2.54" width="0.1524" layer="91"/>
@@ -22991,6 +22992,7 @@ No silk outline, but tDocu layer shows pin location.
 <wire x1="177.8" y1="5.08" x2="162.56" y2="5.08" width="0.1524" layer="91"/>
 <wire x1="162.56" y1="5.08" x2="162.56" y2="2.54" width="0.1524" layer="91"/>
 <junction x="162.56" y="2.54"/>
+<label x="157.48" y="-5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="LIGHT-F" class="0">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.0">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -7844,9 +7844,9 @@ CONN_04
 <attribute name="VALUE" x="43.18" y="63.754" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="43.18" y="79.248" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="R3" gate="G$1" x="60.96" y="38.1" smashed="yes" rot="R90">
-<attribute name="NAME" x="59.4614" y="34.29" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="64.262" y="34.29" size="1.778" layer="96" rot="R90"/>
+<instance part="R3" gate="G$1" x="55.88" y="50.8" smashed="yes" rot="R270">
+<attribute name="NAME" x="57.3786" y="54.61" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="52.578" y="54.61" size="1.778" layer="96" rot="R270"/>
 </instance>
 <instance part="R4" gate="G$1" x="68.58" y="38.1" smashed="yes" rot="R90">
 <attribute name="NAME" x="67.0814" y="34.29" size="1.778" layer="95" rot="R90"/>
@@ -7893,7 +7893,8 @@ CONN_04
 <net name="N$5" class="0">
 <segment>
 <wire x1="68.58" y1="58.42" x2="68.58" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="43.18" x2="60.96" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="68.58" y1="43.18" x2="55.88" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="43.18" x2="55.88" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 <pinref part="R4" gate="G$1" pin="2"/>
 <junction x="68.58" y="43.18"/>
@@ -7910,9 +7911,7 @@ CONN_04
 </net>
 <net name="N$7" class="0">
 <segment>
-<wire x1="60.96" y1="33.02" x2="60.96" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="60.96" y1="30.48" x2="55.88" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="55.88" y1="30.48" x2="55.88" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="55.88" x2="55.88" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="2"/>
 <wire x1="55.88" y1="71.12" x2="53.34" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="1"/>

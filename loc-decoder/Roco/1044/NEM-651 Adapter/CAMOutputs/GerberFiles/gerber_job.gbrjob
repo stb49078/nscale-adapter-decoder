@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-22T21:14:34Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "roco1044"
+        },
+        "Owner": "Stefan Bauer <stb@stefanbauer.at>",
+        "Size": {
+            "X": 62.2,
+            "Y": 14.5
+        }
+    }
+}
