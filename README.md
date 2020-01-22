@@ -16,30 +16,35 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 **Roco - 1044 alt, z.B. 23242**
 
 [NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
+![Board](./loc-decoder/Roco/1044/NEM-651%20Adapter/board.png)
+
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom) (WIP - nicht getestet)
+![Board](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom/board.png)
 
 **Roco - BR215, z.B. 2150B**
 
 [NEM-651 Adapter](./loc-decoder/Roco/BR215)
+![Board](./loc-decoder/Roco/BR215/board.png)
 
 **Roco - BR 44, z.B. 2106B**
 
 [NEM-651 Adapter](./loc-decoder/Roco/BR44) 
+![Board](./loc-decoder/Roco/BR44/board.png)
 
 **Spectrum - GE Dash 8-40CW**
 
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom) (WIP - nicht getestet)
+![Board](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom/board.png)
 
 **Minitrix - E44**
 
 [NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651 Adapter)
+![Board](./loc-decoder/Minitrix/E44/NEM-651 Adapter/board.png)
 
 **Arnold - 1020/E94**
 
 [NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
-
-![Schaltplan](./loc-decoder/Arnold/1020/NEM-651 Adapter/schematic.png =250x) 
-![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png =250x)
+![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png)
 
 ## Wagonbeleuchtung
 
@@ -58,15 +63,19 @@ Die originale H0-Platine und vorprogrammierte PIC-Controller können im Shop von
 Folgende Modelle werden aktuell unterstützt:
 
 [Roco - Eurofima z.B. 24270, 24285, uvm.](./wagon-light/Roco/Eurofima) (WIP - nicht getestet)
+![Board](./wagon-light/Roco/Eurofima/board.png)
 
 [Roco - Eilzugwagen / Schlierenwagen z.B. 24280-24281 ](./wagon-light/Roco/Eilzugwagen) (WIP - nicht getestet)
+![Board](./wagon-light/Roco/Eilzugwagen/board.png)
 
 [Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP - nicht getestet)
+![Board](./wagon-light/Minitrix/Eurofima/board.png)
 
 
 Für kleinere Wägen gibt es allgemeine Platinen
 
 [Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15) (WIP - nicht getestet)
+![Board](./wagon-light/common/50x15/board.png)
 
 ## Support und Fragen
 
