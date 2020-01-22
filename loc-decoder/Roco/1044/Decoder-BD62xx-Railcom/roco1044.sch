@@ -23212,13 +23212,6 @@ No silk outline, but tDocu layer shows pin location.
 <label x="129.54" y="71.12" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="RST" class="0">
-<segment>
-<wire x1="167.64" y1="93.98" x2="198.12" y2="93.98" width="0.1524" layer="91"/>
-<label x="175.26" y="93.98" size="1.778" layer="95"/>
-<pinref part="J1" gate="J$1" pin="3"/>
-</segment>
-</net>
 <net name="COMMAND" class="0">
 <segment>
 <pinref part="U2" gate="G$1" pin="PA2"/>
@@ -23229,12 +23222,6 @@ No silk outline, but tDocu layer shows pin location.
 <pinref part="R11" gate="G$1" pin="1"/>
 <wire x1="185.42" y1="73.66" x2="170.18" y2="73.66" width="0.1524" layer="91"/>
 <label x="170.18" y="73.66" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="N$2" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="PA4"/>
-<wire x1="83.82" y1="68.58" x2="71.12" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="RAILCOM" class="0">
@@ -23261,29 +23248,16 @@ No silk outline, but tDocu layer shows pin location.
 <label x="-5.08" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$16" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="PB0"/>
-<wire x1="129.54" y1="73.66" x2="144.78" y2="73.66" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$18" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="PB2/OSC2"/>
-<wire x1="129.54" y1="68.58" x2="144.78" y2="68.58" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$19" class="0">
-<segment>
-<pinref part="U2" gate="G$1" pin="PB3/OSC1"/>
-<wire x1="129.54" y1="66.04" x2="144.78" y2="66.04" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="RST/UDPI" class="0">
 <segment>
 <pinref part="U2" gate="G$1" pin="PA0/!RESET!/UDPI"/>
 <wire x1="83.82" y1="78.74" x2="71.12" y2="78.74" width="0.1524" layer="91"/>
 <label x="71.12" y="78.74" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="J1" gate="J$1" pin="3"/>
+<wire x1="198.12" y1="93.98" x2="182.88" y2="93.98" width="0.1524" layer="91"/>
+<label x="182.88" y="93.98" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -23334,9 +23308,16 @@ No silk outline, but tDocu layer shows pin location.
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,134.62,15.24,IC2,VCC,V+,,,"/>
-<approved hash="104,1,134.62,12.7,IC2,VCC,V+,,,"/>
-<approved hash="113,1,152.679,13.9725,M-L,,,,,"/>
+<approved hash="104,1,152.4,2.54,IC2,VCC,V+,,,"/>
+<approved hash="104,1,152.4,0,IC2,VCC,V+,,,"/>
+<approved hash="104,1,129.54,83.82,U2,VDD,+5V,,,"/>
+<approved hash="113,1,188.149,41.9075,TR-R-1,,,,,"/>
+<approved hash="113,1,205.72,41.9075,TR-L-1,,,,,"/>
+<approved hash="113,1,188.149,36.8275,TR-R-2,,,,,"/>
+<approved hash="113,1,205.72,36.8275,TR-L-2,,,,,"/>
+<approved hash="113,1,170.459,1.27254,M-L,,,,,"/>
+<approved hash="113,1,188.149,31.7475,TR-R-3,,,,,"/>
+<approved hash="113,1,205.72,31.7475,TR-L-3,,,,,"/>
 </errors>
 </schematic>
 </drawing>
