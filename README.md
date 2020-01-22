@@ -87,5 +87,4 @@ Für kleinere Wägen gibt es allgemeine Platinen
 
 ## Support und Fragen
 
-Bei Fragen, Anregungen und Beschwerden, bitte einfach melden.
-spur.n@stefanbauer.at
+Bei Fragen, Anregungen und Beschwerden, bitte einfach unter spur.n@stefanbauer.at melden.

@@ -162,7 +162,7 @@
 <wire x1="50" y1="0" x2="50" y2="15" width="0" layer="20"/>
 <wire x1="50" y1="15" x2="0" y2="15" width="0" layer="20"/>
 <wire x1="0" y1="15" x2="0" y2="0" width="0" layer="20"/>
-<text x="45" y="13" size="1.27" layer="28" rot="MR0">https://github.com/stb49078/nscale-adapter-decoder</text>
+<text x="44" y="6" size="1.016" layer="26" rot="MR0">https://github.com/stb49078/nscale-adapter-decoder</text>
 </plain>
 <libraries>
 <library name="rectifier" urn="urn:adsk.eagle:library:336">
