@@ -11,9 +11,17 @@ Hier finden sich div. Adapterplatinen und vollständige DIY Lokdecoder auf Basis
 Wie dieses Projekt auch, stehen die hier veröffentlichten Designs damit automatisch unter GPLv3.
 
 Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd623x-e.pdf). 
-![Schaltplan](./loc-decoder/Arnold/1020/NEM-651 Adapter/schematic.png =250x) 
-![Board](./loc-decoder/Arnold/1020/NEM-651 Adapter/board.png =250x)
-**Roco - 1044 alt, z.B. 23242**
+
+##Arnold**
+
+[1020/E94 - NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
+![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
+
+
+
+##Roco
+
+**1044 alt, z.B. 23242**
 
 [NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651_Adapter)
 ![Board](./loc-decoder/Roco/1044/NEM-651_Adapter/board.png)
@@ -21,30 +29,31 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom) (WIP - nicht getestet)
 ![Board](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom/board.png)
 
-**Roco - BR215, z.B. 2150B**
+**BR215, z.B. 2150B**
 
 [NEM-651 Adapter](./loc-decoder/Roco/BR215)
 ![Board](./loc-decoder/Roco/BR215/board.png)
 
-**Roco - BR 44, z.B. 2106B**
+**BR 44, z.B. 2106B**
 
 [NEM-651 Adapter](./loc-decoder/Roco/BR44) 
 ![Board](./loc-decoder/Roco/BR44/board.png)
 
-**Spectrum - GE Dash 8-40CW**
+##Spectrum
+
+**GE Dash 8-40CW**
 
 [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom) (WIP - nicht getestet)
 ![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
 
-**Minitrix - E44**
+##Minitrix 
+
+**E44**
 
 [NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651 Adapter)
 ![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
-**Arnold - 1020/E94**
 
-[NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
-![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
 
 ## Wagonbeleuchtung
 
