@@ -16,7 +16,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 - [NEM651-Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
 - [Aegaeon Decoder mit BD62xx](./loc-decoder/Roco/1044/Decoder-BD62xx)
-
+- [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom)
 
 **Roco - BR215, z.B. 2150B**
 
@@ -28,7 +28,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 **Spectrum - GE Dash 8-40CW**
 
-- [Aegaeon Decoder mit BD62xx](./loc-decoder/Spectrum/GE%20Dash%208-40CW)
+- [Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom)
 
 ## Wagonbeleuchtung
 
