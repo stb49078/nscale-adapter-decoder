@@ -24527,13 +24527,13 @@ No silk outline, but tDocu layer shows pin location.
 <text x="15.24" y="-60.96" size="1.778" layer="91">10u, 6V, 3528-21</text>
 </plain>
 <instances>
-<instance part="R2" gate="G$1" x="-50.8" y="40.64" smashed="yes" rot="R270">
-<attribute name="NAME" x="-49.3014" y="44.45" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="-54.102" y="44.45" size="1.778" layer="96" rot="R270"/>
+<instance part="R2" gate="G$1" x="-15.24" y="5.08" smashed="yes" rot="R270">
+<attribute name="NAME" x="-13.7414" y="8.89" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="-18.542" y="8.89" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R4" gate="G$1" x="-15.24" y="40.64" smashed="yes" rot="R90">
-<attribute name="NAME" x="-16.7386" y="36.83" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-11.938" y="36.83" size="1.778" layer="96" rot="R90"/>
+<instance part="R4" gate="G$1" x="20.32" y="5.08" smashed="yes" rot="R90">
+<attribute name="NAME" x="18.8214" y="1.27" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="23.622" y="1.27" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="TR-R-1" gate="1" x="88.9" y="-12.7" smashed="yes">
 <attribute name="NAME" x="87.757" y="-10.8458" size="1.778" layer="95"/>
@@ -24551,19 +24551,19 @@ No silk outline, but tDocu layer shows pin location.
 <attribute name="NAME" x="105.537" y="-15.9258" size="1.778" layer="95"/>
 <attribute name="VALUE" x="105.537" y="-21.082" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$1" x="-50.8" y="27.94" smashed="yes">
-<attribute name="NAME" x="-50.8" y="33.02" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-50.8" y="30.48" size="1.778" layer="96"/>
+<instance part="U$1" gate="G$1" x="-15.24" y="-7.62" smashed="yes">
+<attribute name="NAME" x="-15.24" y="-2.54" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-15.24" y="-5.08" size="1.778" layer="96"/>
 </instance>
-<instance part="U$1" gate="G$2" x="-15.24" y="27.94" smashed="yes">
-<attribute name="NAME" x="-15.24" y="33.02" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-15.24" y="30.48" size="1.778" layer="96"/>
+<instance part="U$1" gate="G$2" x="20.32" y="-7.62" smashed="yes">
+<attribute name="NAME" x="20.32" y="-2.54" size="1.778" layer="95"/>
+<attribute name="VALUE" x="20.32" y="-5.08" size="1.778" layer="96"/>
 </instance>
-<instance part="GND3" gate="1" x="-50.8" y="17.78" smashed="yes">
-<attribute name="VALUE" x="-53.34" y="15.24" size="1.778" layer="96"/>
+<instance part="GND3" gate="1" x="-15.24" y="-17.78" smashed="yes">
+<attribute name="VALUE" x="-17.78" y="-20.32" size="1.778" layer="96"/>
 </instance>
-<instance part="GND4" gate="1" x="-15.24" y="17.78" smashed="yes">
-<attribute name="VALUE" x="-17.78" y="15.24" size="1.778" layer="96"/>
+<instance part="GND4" gate="1" x="20.32" y="-17.78" smashed="yes">
+<attribute name="VALUE" x="17.78" y="-20.32" size="1.778" layer="96"/>
 </instance>
 <instance part="IC1" gate="G$1" x="5.08" y="-45.72" smashed="yes">
 <attribute name="NAME" x="0" y="-40.005" size="1.778" layer="95"/>
@@ -24614,19 +24614,19 @@ No silk outline, but tDocu layer shows pin location.
 <instance part="P+6" gate="1" x="30.48" y="-40.64" smashed="yes">
 <attribute name="VALUE" x="27.94" y="-45.72" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+7" gate="1" x="-15.24" y="60.96" smashed="yes">
-<attribute name="VALUE" x="-17.78" y="58.42" size="1.778" layer="96" rot="R90"/>
+<instance part="P+7" gate="1" x="20.32" y="25.4" smashed="yes">
+<attribute name="VALUE" x="17.78" y="22.86" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="LED1" gate="G$1" x="-15.24" y="53.34" smashed="yes">
-<attribute name="NAME" x="-11.684" y="48.768" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-9.525" y="48.768" size="1.778" layer="96" rot="R90"/>
+<instance part="LED1" gate="G$1" x="20.32" y="17.78" smashed="yes">
+<attribute name="NAME" x="23.876" y="13.208" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="26.035" y="13.208" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="LED2" gate="G$1" x="-50.8" y="53.34" smashed="yes">
-<attribute name="NAME" x="-47.244" y="48.768" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-45.085" y="48.768" size="1.778" layer="96" rot="R90"/>
+<instance part="LED2" gate="G$1" x="-15.24" y="17.78" smashed="yes">
+<attribute name="NAME" x="-11.684" y="13.208" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-9.525" y="13.208" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="P+8" gate="1" x="-50.8" y="60.96" smashed="yes">
-<attribute name="VALUE" x="-53.34" y="58.42" size="1.778" layer="96" rot="R90"/>
+<instance part="P+8" gate="1" x="-15.24" y="25.4" smashed="yes">
+<attribute name="VALUE" x="-17.78" y="22.86" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="M-R" gate="G$1" x="152.4" y="-60.96" smashed="yes">
 <attribute name="NAME" x="146.05" y="-57.785" size="1.778" layer="95"/>
@@ -24675,39 +24675,39 @@ No silk outline, but tDocu layer shows pin location.
 <instance part="J2" gate="J$1" x="149.86" y="53.34" smashed="yes" rot="R180">
 <attribute name="NAME" x="152.4" y="47.752" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="U$3" gate="G$1" x="203.2" y="35.56" smashed="yes">
-<attribute name="NAME" x="193.04" y="43.18" size="1.778" layer="95"/>
-<attribute name="VALUE" x="193.04" y="40.64" size="1.778" layer="96"/>
+<instance part="U$3" gate="G$1" x="187.96" y="20.32" smashed="yes">
+<attribute name="NAME" x="177.8" y="27.94" size="1.778" layer="95"/>
+<attribute name="VALUE" x="177.8" y="25.4" size="1.778" layer="96"/>
 </instance>
-<instance part="U$3" gate="G$2" x="185.42" y="20.32" smashed="yes" rot="MR0">
-<attribute name="NAME" x="195.58" y="27.94" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="195.58" y="25.4" size="1.778" layer="96" rot="MR0"/>
+<instance part="U$3" gate="G$2" x="170.18" y="5.08" smashed="yes" rot="MR0">
+<attribute name="NAME" x="180.34" y="12.7" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="180.34" y="10.16" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="U$4" gate="G$1" x="175.26" y="-12.7" smashed="yes" rot="MR0">
-<attribute name="NAME" x="170.18" y="-12.7" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="170.18" y="-15.24" size="1.778" layer="96" rot="MR0"/>
+<instance part="U$4" gate="G$1" x="160.02" y="-27.94" smashed="yes" rot="MR0">
+<attribute name="NAME" x="154.94" y="-27.94" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="154.94" y="-30.48" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="U$4" gate="G$2" x="203.2" y="-12.7" smashed="yes">
-<attribute name="NAME" x="208.28" y="-12.7" size="1.778" layer="95"/>
-<attribute name="VALUE" x="208.28" y="-15.24" size="1.778" layer="96"/>
+<instance part="U$4" gate="G$2" x="187.96" y="-27.94" smashed="yes">
+<attribute name="NAME" x="193.04" y="-27.94" size="1.778" layer="95"/>
+<attribute name="VALUE" x="193.04" y="-30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="R13" gate="G$1" x="182.88" y="45.72" smashed="yes" rot="R90">
-<attribute name="NAME" x="181.3814" y="41.91" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="186.182" y="41.91" size="1.778" layer="96" rot="R90"/>
+<instance part="R13" gate="G$1" x="167.64" y="30.48" smashed="yes" rot="R90">
+<attribute name="NAME" x="166.1414" y="26.67" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="170.942" y="26.67" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R14" gate="G$1" x="215.9" y="20.32" smashed="yes">
-<attribute name="NAME" x="212.09" y="21.8186" size="1.778" layer="95"/>
-<attribute name="VALUE" x="212.09" y="17.018" size="1.778" layer="96"/>
+<instance part="R14" gate="G$1" x="200.66" y="5.08" smashed="yes">
+<attribute name="NAME" x="196.85" y="6.5786" size="1.778" layer="95"/>
+<attribute name="VALUE" x="196.85" y="1.778" size="1.778" layer="96"/>
 </instance>
-<instance part="R15" gate="G$1" x="190.5" y="-12.7" smashed="yes">
-<attribute name="NAME" x="186.69" y="-11.2014" size="1.778" layer="95"/>
-<attribute name="VALUE" x="186.69" y="-16.002" size="1.778" layer="96"/>
+<instance part="R15" gate="G$1" x="175.26" y="-27.94" smashed="yes">
+<attribute name="NAME" x="171.45" y="-26.4414" size="1.778" layer="95"/>
+<attribute name="VALUE" x="171.45" y="-31.242" size="1.778" layer="96"/>
 </instance>
-<instance part="P+17" gate="1" x="182.88" y="63.5" smashed="yes">
-<attribute name="VALUE" x="180.34" y="58.42" size="1.778" layer="96" rot="R90"/>
+<instance part="P+17" gate="1" x="167.64" y="48.26" smashed="yes">
+<attribute name="VALUE" x="165.1" y="43.18" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND16" gate="1" x="205.74" y="-25.4" smashed="yes">
-<attribute name="VALUE" x="203.2" y="-27.94" size="1.778" layer="96"/>
+<instance part="GND16" gate="1" x="190.5" y="-40.64" smashed="yes">
+<attribute name="VALUE" x="187.96" y="-43.18" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -24745,12 +24745,12 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="U$1" gate="G$2" pin="S"/>
 <pinref part="GND4" gate="1" pin="GND"/>
-<wire x1="-15.24" y1="22.86" x2="-15.24" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="-12.7" x2="20.32" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="S"/>
 <pinref part="GND3" gate="1" pin="GND"/>
-<wire x1="-50.8" y1="22.86" x2="-50.8" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="-12.7" x2="-15.24" y2="-15.24" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="114.3" y1="-60.96" x2="121.92" y2="-60.96" width="0.1524" layer="91"/>
@@ -24811,7 +24811,7 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="GND16" gate="1" pin="GND"/>
 <pinref part="U$4" gate="G$2" pin="E"/>
-<wire x1="205.74" y1="-22.86" x2="205.74" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="-38.1" x2="190.5" y2="-33.02" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="+5V" class="0">
@@ -24843,12 +24843,12 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="P+17" gate="1" pin="+5V"/>
 <pinref part="R13" gate="G$1" pin="2"/>
-<wire x1="182.88" y1="60.96" x2="182.88" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="50.8" x2="182.88" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="45.72" x2="167.64" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="35.56" x2="167.64" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="U$3" gate="G$1" pin="E"/>
-<wire x1="205.74" y1="40.64" x2="205.74" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="55.88" x2="182.88" y2="55.88" width="0.1524" layer="91"/>
-<junction x="182.88" y="55.88"/>
+<wire x1="190.5" y1="25.4" x2="190.5" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="40.64" x2="167.64" y2="40.64" width="0.1524" layer="91"/>
+<junction x="167.64" y="40.64"/>
 </segment>
 </net>
 <net name="V+" class="0">
@@ -24896,12 +24896,12 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="LED1" gate="G$1" pin="A"/>
 <pinref part="P+7" gate="1" pin="V+"/>
-<wire x1="-15.24" y1="58.42" x2="-15.24" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="22.86" x2="20.32" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="LED2" gate="G$1" pin="A"/>
 <pinref part="P+8" gate="1" pin="V+"/>
-<wire x1="-50.8" y1="58.42" x2="-50.8" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="22.86" x2="-15.24" y2="20.32" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="BEMF" class="0">
@@ -24951,7 +24951,7 @@ No silk outline, but tDocu layer shows pin location.
 <net name="N$1" class="0">
 <segment>
 <pinref part="LED2" gate="G$1" pin="C"/>
-<wire x1="-50.8" y1="45.72" x2="-50.8" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="10.16" x2="-15.24" y2="12.7" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="1"/>
 </segment>
 </net>
@@ -24959,29 +24959,29 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="U$1" gate="G$1" pin="D"/>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="-50.8" y1="35.56" x2="-50.8" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="0" x2="-15.24" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
 <pinref part="U$1" gate="G$2" pin="D"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="-15.24" y1="35.56" x2="-15.24" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="0" x2="20.32" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="LED1" gate="G$1" pin="C"/>
 <pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="-15.24" y1="45.72" x2="-15.24" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="10.16" x2="20.32" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="TR-L" class="0">
 <segment>
 <pinref part="U$4" gate="G$1" pin="C"/>
-<wire x1="172.72" y1="-7.62" x2="172.72" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="172.72" y1="-2.54" x2="160.02" y2="-2.54" width="0.1524" layer="91"/>
-<label x="160.02" y="-2.54" size="1.778" layer="95"/>
+<wire x1="157.48" y1="-22.86" x2="157.48" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="-17.78" x2="144.78" y2="-17.78" width="0.1524" layer="91"/>
+<label x="144.78" y="-17.78" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="TR-L-1" gate="1" pin="P"/>
@@ -25002,10 +25002,10 @@ No silk outline, but tDocu layer shows pin location.
 </net>
 <net name="TR-R" class="0">
 <segment>
-<wire x1="160.02" y1="0" x2="205.74" y2="0" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="-15.24" x2="190.5" y2="-15.24" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$2" pin="C"/>
-<wire x1="205.74" y1="0" x2="205.74" y2="-7.62" width="0.1524" layer="91"/>
-<label x="160.02" y="0" size="1.778" layer="95"/>
+<wire x1="190.5" y1="-15.24" x2="190.5" y2="-22.86" width="0.1524" layer="91"/>
+<label x="144.78" y="-15.24" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="TR-R-1" gate="1" pin="P"/>
@@ -25028,8 +25028,8 @@ No silk outline, but tDocu layer shows pin location.
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="G"/>
-<wire x1="-63.5" y1="27.94" x2="-58.42" y2="27.94" width="0.1524" layer="91"/>
-<label x="-63.5" y="27.94" size="1.778" layer="95"/>
+<wire x1="-27.94" y1="-7.62" x2="-22.86" y2="-7.62" width="0.1524" layer="91"/>
+<label x="-27.94" y="-7.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="COMMAND" class="0">
@@ -25054,8 +25054,8 @@ No silk outline, but tDocu layer shows pin location.
 </segment>
 <segment>
 <pinref part="R14" gate="G$1" pin="2"/>
-<wire x1="220.98" y1="20.32" x2="238.76" y2="20.32" width="0.1524" layer="91"/>
-<label x="228.6" y="20.32" size="1.778" layer="95"/>
+<wire x1="205.74" y1="5.08" x2="223.52" y2="5.08" width="0.1524" layer="91"/>
+<label x="213.36" y="5.08" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="LIGHT-B" class="0">
@@ -25066,8 +25066,8 @@ No silk outline, but tDocu layer shows pin location.
 </segment>
 <segment>
 <pinref part="U$1" gate="G$2" pin="G"/>
-<wire x1="-27.94" y1="27.94" x2="-22.86" y2="27.94" width="0.1524" layer="91"/>
-<label x="-27.94" y="27.94" size="1.778" layer="95"/>
+<wire x1="7.62" y1="-7.62" x2="12.7" y2="-7.62" width="0.1524" layer="91"/>
+<label x="7.62" y="-7.62" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RST/UDPI" class="0">
@@ -25086,44 +25086,44 @@ No silk outline, but tDocu layer shows pin location.
 <segment>
 <pinref part="U$4" gate="G$2" pin="B"/>
 <pinref part="R15" gate="G$1" pin="2"/>
-<wire x1="195.58" y1="-12.7" x2="200.66" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="180.34" y1="-27.94" x2="185.42" y2="-27.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$19" class="0">
 <segment>
 <pinref part="R15" gate="G$1" pin="1"/>
 <pinref part="U$4" gate="G$1" pin="B"/>
-<wire x1="177.8" y1="-12.7" x2="182.88" y2="-12.7" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="-12.7" x2="185.42" y2="-12.7" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="-12.7" x2="182.88" y2="-20.32" width="0.1524" layer="91"/>
-<junction x="182.88" y="-12.7"/>
-<wire x1="182.88" y1="-20.32" x2="172.72" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="162.56" y1="-27.94" x2="167.64" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="-27.94" x2="170.18" y2="-27.94" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="-27.94" x2="167.64" y2="-35.56" width="0.1524" layer="91"/>
+<junction x="167.64" y="-27.94"/>
+<wire x1="167.64" y1="-35.56" x2="157.48" y2="-35.56" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$1" pin="E"/>
-<wire x1="172.72" y1="-20.32" x2="172.72" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="157.48" y1="-35.56" x2="157.48" y2="-33.02" width="0.1524" layer="91"/>
 <pinref part="U$3" gate="G$2" pin="C"/>
-<wire x1="182.88" y1="15.24" x2="182.88" y2="-12.7" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="0" x2="167.64" y2="-27.94" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$20" class="0">
 <segment>
 <pinref part="R13" gate="G$1" pin="1"/>
 <pinref part="U$3" gate="G$2" pin="E"/>
-<wire x1="182.88" y1="40.64" x2="182.88" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="167.64" y1="25.4" x2="167.64" y2="20.32" width="0.1524" layer="91"/>
 <pinref part="U$3" gate="G$1" pin="B"/>
-<wire x1="182.88" y1="35.56" x2="182.88" y2="25.4" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="35.56" x2="182.88" y2="35.56" width="0.1524" layer="91"/>
-<junction x="182.88" y="35.56"/>
+<wire x1="167.64" y1="20.32" x2="167.64" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="185.42" y1="20.32" x2="167.64" y2="20.32" width="0.1524" layer="91"/>
+<junction x="167.64" y="20.32"/>
 </segment>
 </net>
 <net name="N$21" class="0">
 <segment>
 <pinref part="U$3" gate="G$1" pin="C"/>
 <pinref part="U$3" gate="G$2" pin="B"/>
-<wire x1="205.74" y1="30.48" x2="205.74" y2="20.32" width="0.1524" layer="91"/>
-<wire x1="205.74" y1="20.32" x2="187.96" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="15.24" x2="190.5" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="190.5" y1="5.08" x2="172.72" y2="5.08" width="0.1524" layer="91"/>
 <pinref part="R14" gate="G$1" pin="1"/>
-<wire x1="205.74" y1="20.32" x2="210.82" y2="20.32" width="0.1524" layer="91"/>
-<junction x="205.74" y="20.32"/>
+<wire x1="190.5" y1="5.08" x2="195.58" y2="5.08" width="0.1524" layer="91"/>
+<junction x="190.5" y="5.08"/>
 </segment>
 </net>
 </nets>

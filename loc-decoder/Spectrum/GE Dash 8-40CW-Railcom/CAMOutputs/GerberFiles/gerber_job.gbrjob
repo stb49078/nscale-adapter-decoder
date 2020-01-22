@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-22T21:24:32Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "dash8_40cw"
+        },
+        "Owner": "Stefan Bauer <stb@stefanbauer.at>",
+        "Size": {
+            "X": 95,
+            "Y": 10.4
+        }
+    }
+}
