@@ -8,13 +8,13 @@ Wie dieses Projekt auch, stehen die hier veröffentlichten Designs damit automat
 Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 [BD623xx](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/motor/dc/bd623x-e.pdf).
 
-##Arnold
+## Arnold
 
 [1020/E94 - NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
 ![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
 
 
-##Roco
+## Roco
 
 **1044 alt, z.B. 23242**
 
@@ -34,7 +34,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 [NEM-651 Adapter](./loc-decoder/Roco/BR44)
 ![Board](./loc-decoder/Roco/BR44/board.png)
 
-##Minitrix
+## Minitrix
 
 **E44**
 
@@ -42,7 +42,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 ![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
 
-##Spectrum
+## Spectrum
 
 **GE Dash 8-40CW**
 
