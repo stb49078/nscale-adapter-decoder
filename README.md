@@ -16,7 +16,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 **Roco - 1044 alt, z.B. 23242**
 
 [NEM-651 Adapter](./loc-decoder/Roco/1044/NEM-651%20Adapter)
-[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom)
+[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Roco/1044/Decoder-BD62xx-Railcom) (WIP - nicht getestet)
 
 **Roco - BR215, z.B. 2150B**
 
@@ -24,11 +24,11 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber [BD623xx](
 
 **Roco - BR 44, z.B. 2106B**
 
-[NEM-651 Adapter](./loc-decoder/Roco/BR44)
+[NEM-651 Adapter](./loc-decoder/Roco/BR44) 
 
 **Spectrum - GE Dash 8-40CW**
 
-[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom)
+[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE%20Dash%208-40CW-Railcom) (WIP - nicht getestet)
 
 **Minitrix - E44**
 
@@ -57,16 +57,16 @@ Die originale H0-Platine und vorprogrammierte PIC-Controller können im Shop von
 
 Folgende Modelle werden aktuell unterstützt:
 
-[Roco - Eurofima z.B. 24270, 24285, uvm.](./wagon-light/Roco/Eurofima)
+[Roco - Eurofima z.B. 24270, 24285, uvm.](./wagon-light/Roco/Eurofima) (WIP - nicht getestet)
 
-[Roco - Eilzugwagen / Schlierenwagen z.B. 24280-24281 ](./wagon-light/Roco/Eilzugwagen) (WIP)
+[Roco - Eilzugwagen / Schlierenwagen z.B. 24280-24281 ](./wagon-light/Roco/Eilzugwagen) (WIP - nicht getestet)
 
-[Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP)
+[Minitrix - Eurofima z.B. 3095, 3106, uvm.](./wagon-light/Minitrix/Eurofima) (WIP - nicht getestet)
 
 
 Für kleinere Wägen gibt es allgemeine Platinen
 
-[Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15)
+[Einseite Montage - 50mm * 15mm](./wagon-light/common/50x15) (WIP - nicht getestet)
 
 ## Support und Fragen
 
