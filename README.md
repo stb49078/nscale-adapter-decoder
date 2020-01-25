@@ -40,7 +40,7 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 
 **E44**
 
-[NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651 Adapter)
+[NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651_Adapter)
 ![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
 
