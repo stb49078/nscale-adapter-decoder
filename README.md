@@ -10,7 +10,9 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 
 ## Arnold
 
-[1020/E94 - NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
+**1020/E94**
+
+[NEM-651 Adapter](./loc-decoder/Arnold/1020/NEM-651 Adapter)
 ![Board](./loc-decoder/Arnold/1020/NEM-651_Adapter/board.png)
 
 
