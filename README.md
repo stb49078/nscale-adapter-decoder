@@ -43,7 +43,6 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 [NEM-651 Adapter](./loc-decoder/Minitrix/E44/NEM-651_Adapter)
 ![Board](./loc-decoder/Minitrix/E44/NEM-651_Adapter/board.png)
 
-
 ## Spectrum
 
 **GE Dash 8-40CW**
