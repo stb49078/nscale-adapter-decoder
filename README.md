@@ -28,13 +28,13 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 
 **BR215, z.B. 2150B**
 
-[NEM-651 Adapter](./loc-decoder/Roco/BR215)
-![Board](./loc-decoder/Roco/BR215/board.png)
+[NEM-651 Adapter](./loc-decoder/Roco/BR215/NEM-651_Adapter)
+![Board](./loc-decoder/Roco/BR215/NEM-651_Adapter/board.png)
 
 **BR 44, z.B. 2106B**
 
-[NEM-651 Adapter](./loc-decoder/Roco/BR44)
-![Board](./loc-decoder/Roco/BR44/board.png)
+[NEM-651 Adapter](./loc-decoder/Roco/BR44/NEM-651_Adapter)
+![Board](./loc-decoder/Roco/BR44/NEM-651_Adapter/board.png)
 
 ## Minitrix
 
@@ -47,8 +47,8 @@ Die Dekoder wurden leicht angeändert, und verwenden den Motortreiber
 
 **GE Dash 8-40CW**
 
-[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom)
-![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW-Railcom/board.png)
+[Aegaeon Decoder mit BD62xx und Railcom](./loc-decoder/Spectrum/GE_Dash_8-40CW/Decoder-BD62xx-Railcom)
+![Board](./loc-decoder/Spectrum/GE_Dash_8-40CW/Decoder-BD62xx-Railcom/board.png)
 
 
 # Wagonbeleuchtung mit integriertem Decoder- Spur N
